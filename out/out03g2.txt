@@ -1,0 +1,22 @@
+哼 (heng)
+5 in common: 亨heng哼heng
+4 in common: 亭ting停ting
+3 in common: 亮liang熟shou京jing舒shu吁yu豪hao就jiu凉liang惊jing吟yin影ying醇chun敦dun含han咳ke呵he郭guo奇ji可ke掠lu:e阿e骑ji廓kuo商shang享xiang啊a豫yu倚yi膏gao河he毫hao鲸jing景jing荷he事shi柯ke谅liang咬yao崎qi何he叮ding椅yi琼qiong寄ji啼ti <-- *** how to build AI into this to group these conceptually? e.g., 可 / 京 / 亨 （plus the 亨-impostor "享"）-types should each be grouped, and they themselves will also need to be grouped with their neighbors? seems to be a question of similar "strings" or "runs" of components ***
+
+SAMPLE GROUPING:
+
+=== 哼 ===[a] :
+{ 亨heng }
+{ 亭停ting[b] }
+{ 就jiu[c] / 京jing 景jing 鲸jing 惊jing ~  影ying[d] ~ 琼qiong / 凉liang 掠lu:e 谅li }
+{ 享xiang / 郭guo ~ 廓kuo / 醇chun ~ 敦dun }
+{ 可ke ~ 荷he 何he 河he 呵he / 奇ji 骑ji 寄ji ~ 椅yi 倚yi ~ 崎qi / 阿e 啊a / 柯keang }
+
+Notes:  [a][[delimiter syntax here is {} = main conceptual group; / = secondary group,  primarily homophonic; ~ = primarily quasi-homophonic]]  [b][[亨 impostor??]]  [c][[就 is promoted in this subgroup by virtue of its lexical frequency]]  [d][[close to jing, true or false quasiphone?]] 
+
+{ leftovers - don't see obvious groups, perhaps false positives, perhaps lump with below }
+亮liang熟shou舒shu吁yu豪hao吟yin含han咳ke商shang豫yu膏gao毫hao事shi咬yao叮ding啼ti
+
+{ don't immediately see much of promise below, perhaps these can be subgrouped and placed in concentrically far "outside" the above most promising - although the 司 / 同 / 向 etc. are pretty good impostors of 可 for beginners， perhaps these would be promoted in status with the "run" argument of 一 and 口 appearing in same order }
+2 in common: 尚shang嘲chao谨jin阁ge晌shang说shui鸣ming虽sui拘ju哇wa迦jia兑dui熙xi鄙bi害hai嘉jia阅yue狗gou嗅xiu速su弯wan唇chun战zhan吃ji或huo名ming亦yi咋zha锅guo唉ai碱jian响xiang赢ying捐juan吏li格ge燕yan拐guai赠zeng娱yu吉ji遗yi铅qian哉zai诺nuo积ji吗ma嘟du伺ci熏xun棠tang湾wan嗓sang淌tang呕ou哗hua向xiang堡pu掌zhang哑ya警jing嫩nen雕diao勉mian吓xia嘛ma咕gu贺he勋xun域yu胎tai晚wan临lin沼zhao倍bei估gu贴tie钟zhong躺tang克ke沾zhan疗liao职zhi哟yo像xiang谴qian鸽ge懒lan憎zeng君jun减jian仲zhong臂bi譬pi免mian敞chang点dian祝zhu嗡weng姑gu叹tan吧ba娟juan邵shao知zhi啡fei喜xi凳deng嗣si居ji程cheng咧lie拾shi铭ming织zhi恰qia桐tong避bi匿ni啥sha喘chuan了le晤wu略lu:e酷ku启qi额e喔wo站zhan右you幅fu窝wo吩fen咯luo猿yuan敬jing裔yi哩li函han憾han够gou唯wei嗯en蛮man僻pi兽shou绍shao号hao吵chao唱chang抬tai辖xia副fu叩kou培pei结jie悦yue嘿hei咱za福fu种zhong叫jiao僧seng识zhi吱zhi澜lan味wei曾ceng壁bi整zheng喊han叭ba炯jiong嘻xi别bie辐fu智zhi蝴hu据ju苦ku撼han剧ju遣qian郡jun辜gu况kuang命ming湖hu照zhao善shan口kou始shi给ji嚷rang钻zuan吹chui嘱zhu洞dong店dian聪cong呻shen赖lai喂wei嗽sou句ju架jia吻wen咽ye赔pei喀ka哄hong绢juan变bian呆dai恕shu衷zhong招zhao各ge群qun涡wo中zhong路lu惑huo嘎ga驶shi哀ai祸huo故gu喻yu辣la膛tang象xiang呀ya囊nang杏xing损sun兔tu搁ge喷pen忠zhong剖pou党dang浩hao同tong裳shang哎ai悟wu后hou瞎xia告gao哈ha饲si驾jia做zuo倘chang合he感gan苟gou呈cheng和huo圆yuan吊diao盒he唐tang劈pi咐fu强qiang铜tong吐tu咖ka伽ga客ke撑cheng嘘xu常chang涵han束shu兄xiong呐na语yu使shi喧xuan贵gui咚dong绸chou呜wu误wu吞tun沿yan辽liao迹ji姬ji嗜shi橡xiang锐rui舍she员yuan恋lian治zhi答da糊hu裙qun司si逸yi税shui虞yu喝he问wen塔ta哦e昭zhao否pi洁jie噪zao拿na赏shang啦la呢ni肿zhong唤huan逼bi局ju筒tong啤pi靠kao豁huo颐yi挽wan枯ku陪pei啪pa台tai听yin骆luo窘jiong船chuan史shi胳ge哮xiao惹re咨zi冤yuan搭da调diao超chao竞jing噢o割ge哨shao增zeng脱tuo如ru总zong吨dun周zhou哪na叶ye衙ya塘tang售shou溃kui部bu叨tao帜zhi吴wu趟tang粘nian只zhi馈kui若ruo富fu召zhao保bao落luo固gu哲zhe佑you喉hou辑ji堂tang嚼jue露lou怡yi胡hu勤qin词ci喇la洛luo冶ye辟bi吼hou造zao嘴zui占zhan呼hu诏zhao痴chi啸xiao加jia袁yuan帖tie吾wu嘶si咸xian菩pu喃nan古gu糖tang冲chong吸xi扣kou哺bu另ling络luo
+1 in common: 禽qin疏shu睁zheng贪tan离li蒂di效xiao交jiao璃li习xi炕kang均jun琉liu核he钉ding粹cui摔shuai擒qin厅ting率lu:液ye醉zui孩hai硫liu订ding充chong蹄ti坑keng摘zhai念nian膀bang傍bang永yong镑bang滴di静jing钧jun蔬shu撤che于yu序xu刻ke予yu今jin迂yu骇hai育yu恼nao弃qi冥ming榜bang盯ding胶jiao帝di宇yu韵yun狡jiao闹nao宁ning墅shu灯deng航hang统tong旁pang六liu磅bang蒋jiang擅shan翠cui亩mu梳shu卒zu抗kang顶ding脑nao打da该gai泳yong净jing郊jiao野ye颤chan丹dan脉mo骸hai校jiao匀yun流liu将qiang毓yu杭hang较jiao争zheng丁zheng夜ye市shi琴qin预yu碎sui缔di挣zheng绞jiao禀bing
